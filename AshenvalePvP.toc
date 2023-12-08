@@ -1,0 +1,7 @@
+## Interface: 11305
+## Title: Ashenvale PvP Event Tracker
+## Notes: Tracks PvP events in Ashenvale.
+## Author: Yò-Wild Growth
+## Version: 1.0
+## SavedVariables: AshenvalePvPDB
+AshenvalePvP.lua
